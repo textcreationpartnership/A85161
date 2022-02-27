@@ -1,0 +1,212 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Scot arraigned, and at the bar of justice, reason, and religion, convinced, convicted, and condemned of a most horrid and odious conspiracy and rebellion against the native liberty and birth-right of the Church and free state of England. / By R.F.</title>
+            <author>R. F.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85161</idno>
+            <idno type="STC">Wing F53</idno>
+            <idno type="STC">Thomason E632_10</idno>
+            <idno type="STC">ESTC R206459</idno>
+            <idno type="EEBO-CITATION">99865616</idno>
+            <idno type="PROQUEST">99865616</idno>
+            <idno type="VID">117862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85161)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117862)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 97:E632[10])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Scot arraigned, and at the bar of justice, reason, and religion, convinced, convicted, and condemned of a most horrid and odious conspiracy and rebellion against the native liberty and birth-right of the Church and free state of England. / By R.F.</title>
+                  <author>R. F.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by James Moxon,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 16".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  History --  1649-1660 --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117862:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 68 -->
+            <p>The Scot Arraigned, <hi>AND</hi> At the Bar of Juſtice, Reaſon, and Religion, Convinced, Convicted, and Con<g ref="char:EOLhyphen"/>demned of a moſt horrid and odious Conſpiracy and Rebellion againſt the Native Liberty and Birth-right of the Church and Free State of <hi>ENGLAND.</hi>
+            </p>
+            <p>By <hi>R. F.</hi>
+            </p>
+            <figure>
+               <figDesc>depiction of a ship in full sail by a harbour wall</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> Printed by JAMES MOXON, 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb facs="tcp:117862:2"/>
+            <!-- PDF PAGE 69 -->
+            <pb n="1" facs="tcp:117862:2"/>
+            <!-- PDF PAGE 69 -->
+            <head>The Scot Arraigned, <hi>AND</hi> At the Bar of Juſtice, Reaſon, and Religion, Convinced, Convicted, and Con<g ref="char:EOLhyphen"/>demned of a moſt horrid and odious Conſpiracy and Rebellion againſt the Native Liberties and Birth<g ref="char:EOLhyphen"/>right of the Church and Free State of <hi>England.</hi>
+            </head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">L</seg>Aw</hi> is but the beſt <hi>Reaſon,</hi> and <hi>Juſtice</hi> the life and actuating ſoul of that dead and preti<g ref="char:EOLhyphen"/>ous letter; in whoſe obſer<g ref="char:EOLhyphen"/>vance and free Adminiſtra<g ref="char:EOLhyphen"/>tion, the welfare, felicity, and peace of all Kingdoms, States, and Republiques are involv'd and wrapp'd up: for were man left only to the diſpoſition of his own depraved
+<pb n="2" facs="tcp:117862:3"/>
+               <!-- PDF PAGE 70 -->Will, he were of all Creatures moſt miſerable. That therefore the influx of this evill may be prevented, the immediate hand of God, and the diligent care of humane Policy, through the generall parts of the whole world have injoyn'd and preſcribed wholſome Lawes, as well for the ſubduing of this natural propenſion of fleſh and blood, as alſo for the preſervation of the publique weale and proſperity.</p>
+            <p>
+               <q rend="margQuotes">This is the ſole bliſs of a people, and this the real Liberty of the Subject, when a man may enjoy his own Properties and Right without wrong or moleſtation, under the pro<g ref="char:EOLhyphen"/>tection of a juſt and Legal Goverment.</q>
+            </p>
+            <p>Since therefore it has pleaſed Almighty God (amongſt many of his exceeding mercies to this poor Nation) to make us a Civil people; and to enlarge that bounty, to give us religious, juſt, and honeſt Laws; nay more, to redeem us from the ſlavery of Tyranny into a free State, and to crown all theſe with the ineſtimable bleſ<g ref="char:EOLhyphen"/>ſing of the plenteous diſpenſation of his holy Word and Goſpel: how zealouſly, coragiouſly, and in duty ſhould we endeavor to diſcover and prevent all Treaſons and Conſpiracies which may undermine and deprive us of theſe invalua<g ref="char:EOLhyphen"/>ble Jewels? for they are the very foundation and ſinewes of our peace, enjoyments, and common ſociety: Amongſt many other fears which we
+<pb n="3" facs="tcp:117862:3"/>
+               <!-- PDF PAGE 70 -->may juſtly be ſenſible of, as tending to the everſi<g ref="char:EOLhyphen"/>on and demoliſhing of theſe publike Rights and participations, we ſhall here diſcover an appa<g ref="char:EOLhyphen"/>rent enemie, a malignant envious pack of indi<g ref="char:EOLhyphen"/>gent contemptuous wretches, not only inveying and backbiting againſt the glorious arival of our happineſs, but by an open hoſtility, uniuſtly, vio<g ref="char:EOLhyphen"/>lently, and inhumanely endeavoring and ploting the invaſion of our birthrights, and the ruine of the Church; and therefore without any fur<g ref="char:EOLhyphen"/>ther preamble I ſhall here make audience, and at a Conſcientious and legall hearing indite, and make proofe againſt that wretched Criminal, the Kingdom of Scotland: A faction ſcituate in the rubbiſh of Chriſtendome, now actually in armes againſt the State and Liberties of the free borne people of England; and therefore I deſire God in mercy to ſhew his Juſtice upon them, whoſe bloudy purpoſes and determina<g ref="char:EOLhyphen"/>tion ſpeak them no leſs then the troublers of Iſraell, and the diſquieters of the peace of <hi>Sion.</hi> Not to run them up through all the forepaſt periurious and damnable practices of their beg<g ref="char:EOLhyphen"/>gerly mutinous progenitors (for that were to begin an endleſs ſeries of villany and trea<g ref="char:EOLhyphen"/>chery) I ſhall only proſecute them in the pro<g ref="char:EOLhyphen"/>ductions of this preſent age: and there I queſ<g ref="char:EOLhyphen"/>tion not but to find matter enough to propagate their Juſt odium to all poſterity.</p>
+            <pb n="4" facs="tcp:117862:4"/>
+            <!-- PDF PAGE 71 -->
+            <p>
+               <q rend="margQuotes">Warr is a thing to be undertaken ſeriouſly adviſedly, and upon ſound grounds: in regard it traffiques in the pretious life of man, whoſe bloud muſt be required by a ſtrict and righ<g ref="char:EOLhyphen"/>teous God; and concernes no leſs then the high moment and intereſt of a whole Com<g ref="char:EOLhyphen"/>mon-wealth.</q>
+            </p>
+            <p>All other triviall and ſiniſter ends and under<g ref="char:EOLhyphen"/>takings, be they never ſo well burniſh'd with plauſible pretences, be they never ſo well back'd with Magnanimity and earthly power, yet are they diſhoneſt, diſhonourable, and diſconſo<g ref="char:EOLhyphen"/>nant to the Law of God and Nature. <hi>Whatſo<g ref="char:EOLhyphen"/>ever ye would that men ſhould do unto you, even ſo do you unto them.</hi> If the Lord has ſaid thou ſhalt not Covet; Much more has he en<g ref="char:EOLhyphen"/>joyn'd thee from force of Armes to wrong thy neighbour, yet theſe Unchriſtian Machiavells: whoſe miſery is their matter, laying a ſide the injunctions of Religion, the ſecret Convictions of reaſon, and the open perſwaſions of Com<g ref="char:EOLhyphen"/>mon Civillity, out of a greedy mizing deſire after the enjoyment of our goods and for tunes, have hurried themſelves into a poſture of war, to enforce an intereſt of ſuperintendency over us a free people, and all forſooth through the Colour of their young Novice, and the old Slobberd greazy account of the quondam quid<g ref="char:EOLhyphen"/>dity, which muſt dwindle away, and returne to
+<pb n="5" facs="tcp:117862:4"/>
+               <!-- PDF PAGE 71 -->its duſt. <hi>O Magiſter Artis, Ingenii<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> largitor venter!</hi> How wittily baſe theſe juggling Jockies would faine render themſelves! A gang of ſnaky headed Pedlars, which to keep their hands in action, and from a ſervile ignoble Covetouſ<g ref="char:EOLhyphen"/>neſs to ſatiſfie the Cries of their empty ſouls out of the meanes and properties of other men, would needs twiſt themſelves into a ſeeming Concernment in the managing and governing of us, by whom (notwithſtanding their French <hi>League</hi>) they do in Charity breath. But Mr Iockie, by your nimbleneſs his leave, what have you to do out of your own bounds to enforce and conſtrain a ſuperiour people then your ſelf to the ſlavery of your yoke and Kirk modell? becauſe the ſins of our Nation unhap<g ref="char:EOLhyphen"/>pily once provoked God to puniſh us (as he threatned the Iſraelites) by a fooliſh people, and to give us over a while to the miſerable ſuc<g ref="char:EOLhyphen"/>ceſſion of Scotch Tyranny, now that he has re<g ref="char:EOLhyphen"/>deemed us by his mighty Arme and mercy into the bleſſed eſtate of our preſent Condition, upon that ſhallow account will you, <hi>Res anguſ<g ref="char:EOLhyphen"/>ta domi,</hi> inſtigate your mercenary ſpirits to re<g ref="char:EOLhyphen"/>new our oppreſſions, and reinſtall your beggery with the pretended Crown and Scepter of <hi>England?</hi> hold Coach-man; <hi>Pharaoh</hi> may look bigg, and ask in pride, who is the Lord that I ſhould ſerve him? yet notwithſtanding when
+<pb n="6" facs="tcp:117862:5"/>
+               <!-- PDF PAGE 72 -->the fullneſs of time for the deliverance of <hi>Iacob</hi> is come, had the Chariots of Egypt bin as numerous as the mountaines of <hi>Scotland,</hi> and all in flamed with the maddeſt zeale of your fiery <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>reſbyters, yet you know what did and would have become of them, and in theirs, the ſequel of your own deſtiny. Tis true you have declared highly againſt our Liberty and Goverment, and like bold Beauchamps, have ſeconded your words with your ſwords; and therefore in ſo Palpable a caſe as this, I ſhall need no other proofe then your own profeſſions, to affirme you Conſpirators and traytors againſt the State and Common-wealth of <hi>England,</hi>
+            </p>
+            <p>
+               <q rend="margQuotes">For whoſoever ſhall attempt by ſiniſter meanes or open violence to overthrow the foundations of our Liberty, and by con<g ref="char:EOLhyphen"/>pulſion <hi>vi &amp; armis</hi> to ſubject us a free born people to the bondage of an arbitrary will, I dare and muſt proclaim them Traytors, and dangerouſly malignant enemies to the peace and Publique weale of this Nation.</q>
+            </p>
+            <p>For it is not enough for you to ſay that we have entered into Covenant, and ſo intend to ſweare you out of your rights and Priviledges. Or becauſe you have drawne the Young-man in, and inveſted him with a Royalty <hi>de Juydot,</hi> an ayery title of your King, that therefore, having ſo wiſe a head, you may attempt any
+<pb n="7" facs="tcp:117862:5"/>
+               <!-- PDF PAGE 72 -->villany, or proſecute your unjuſt ends upon us; no, that cannot juſtifie your eccentrick actions, or ſtrengthen the preſumption of your damna<g ref="char:EOLhyphen"/>ble deſigns.</p>
+            <p>
+               <q rend="margQuotes">For you muſt know, that Will is no legal Ti<g ref="char:EOLhyphen"/>tle though bound with a voluntary oath. And that (if ever he had any) your ſpecious Preten<g ref="char:EOLhyphen"/>der has loſt his claime in the forfeiture of his father.</q>
+            </p>
+            <p>To create therefore an intereſt of your ſelves where there was none before, and under the falſe notion of that counterfit Grant to pre<g ref="char:EOLhyphen"/>ſume to neceſsitate us to a Compliance and embracing of your compulſive Arbitration, is neither Legall nor juſtifiable, hence then after a mature weighing and reflexion upon the generallity of your enterprize, give me leave to adiudge you guilty of the higheſt and moſt capi<g ref="char:EOLhyphen"/>tall Treaſon that may be conceaved againſt the State and free people of <hi>England.</hi> For they that will endeavour to bring in Innovation of Religion forged by the giddy mould of a Preſ<g ref="char:EOLhyphen"/>byterian braine, and ſo null the priviledge of the Church: they that will attempt in a free State to injoyne an obedience and ſubmiſſion upon a diſtinct nation to the forced modell of a tyrannicall Goverment, what crime can exceed it in nature and degree? Search the Scripture
+<pb n="8" facs="tcp:117862:6"/>
+               <!-- PDF PAGE 73 -->and you ſhall find that God never Authorizes one man to be the thral of another. Not yet enjoyns one Nation to be a preſident for the Civil Government of another: but all man-kind was left freely to the election of their own pro<g ref="char:EOLhyphen"/>per moderation. Why then ſhould your pride and deſires hoiſe you up to that ſtrange height of arrogance, to dare things beyond warrant or example? Was it the kindneſs which you have received from us at ſeverall times in theſe late yeares in free Contributions towards your wants and ſupportation, that has invited this injury? or was i that we permitted you to fiſh in our troubled waters without oppoſition or moleſtation, that deſerves this returne? Or was it that tender care we ever had to perform the Condition of our Contracts and promiſes to you, has ſo incens'd you? O the retaliation of Scottiſh Gratitude! 'tis true, you are our bre<g ref="char:EOLhyphen"/>thren, and we have a ſweet fraternity of it, but that follows not that you muſt thence be our maſters: Ne gyud faith, though indeed the ambition of your minds may look as high as the Soveraignty and Subiugation of <hi>England,</hi> yet I muſt tell you we infinitely diſdaine to degene<g ref="char:EOLhyphen"/>rate ſo far from the valour of our anceſtors, or to offend ſo hainouſly againſt our own intereſts, as to enſlave our freer ſpirits to the tottered
+<pb n="9" facs="tcp:117862:6"/>
+               <!-- PDF PAGE 73 -->Scepter of <hi>Scotland,</hi> for we are a people of our ſelves, without dependance upon any other Kingdom, free Commoners by birth, without the leaſt acknowledgment of ſubiection due to any tyrannicall oppreſſor.</p>
+            <p>And you a people in your ſelves, unconcern'd in our Priviledges and inheritance. If therefore upon your owne ſcore you have broken over the fences and boundaries of our birth-rights, and attempt to poſſeſs your ſelves of that free<g ref="char:EOLhyphen"/>dom which belongs not unto you, you muſt pardon us if we endeavour to prevent your paſ<g ref="char:EOLhyphen"/>ſage, and our own miſery: and in the mean time look upon you as Murtherers and Traytors, And therefore by the juſt Judgment of equity, reaſon, and religion, you muſt be ſentenced ac<g ref="char:EOLhyphen"/>cordingly. Your book cannot ſave you, neither will our Law or convenience afford you the be<g ref="char:EOLhyphen"/>nefit of your clergy. 'Tis too late to diſſemble, and too ſoone for us to believe you, for he that Credits a Scot, may as well truſt a Divell, for no bondes can hold him further then his im<g ref="char:EOLhyphen"/>mediate profit, and let the compact be never ſo firmly coniured, he will break through, <hi>aut viam inveniet, aut faciet,</hi> turne over the records o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> time but from the conqueſt, and you ſhall fin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> amongſt all the bickerings of <hi>England</hi> wit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> France, for our juſt rights there, notwithſtand<g ref="char:EOLhyphen"/>ing
+<pb n="10" facs="tcp:117862:7"/>
+               <!-- PDF PAGE 74 -->he were tyed up by all the powerful Charms of Amity and Friendſhip; the Engliſh were no ſooner almoſt at Calice, but the Scots would be at Berwick, ready to invade and plun<g ref="char:EOLhyphen"/>der the Northerne Countries, if therefore the God of Juſtice, to recompence his perfidious dealing, has brought his Judgement home unto him, 'tis but juſt for him to ſuffer in the ſame way as he has often compelled others, for what grounds had he more then his poor relation to the wandering Gentleman? And that owned too in hopes of a further end, to gloze over the occaſion of this quarrell? They have him, and have enthroned him, let them keep him to themſelves. Otherwiſe I preſume they may both ſinke in the wetting; for heaven ſeldome permits erroneous and deſperate Courſes to to have good ſucceſs or peaceble ends.</p>
+            <p>Thus breifly (my beloved Countrymen and fellow Commoners of <hi>England</hi>) you ſee the ſcope and drift of the Scotch warr, <hi>viz:</hi> your ſlavery, and their ſoveraignty; you have known the perfidious dealing of theſe diſſem<g ref="char:EOLhyphen"/>bling Sycophants, and our forefathers, and many of us have had a lamentable experience of their Cruelties and Tyranny; if therefore you can ſo much forſake your own happineſs and freedom, to turne bondmen again to theſe mercileſs
+<pb n="11" facs="tcp:117862:7"/>
+               <!-- PDF PAGE 74 -->Egiptians, it is pitty we ever knew or ſaw a Canaan. Conſide, firſt that they are a merce<g ref="char:EOLhyphen"/>nary nation, like Salamanders living in the fire of other mens Contentions, no occaſion ſo ſmall but that can raiſe them an advantage, no invitation ſo little but deſerves their embraces.</p>
+            <p>Secondly that they are our inferiors, and we a free people, and to be ſubdued by ſuch a con<g ref="char:EOLhyphen"/>temptible rabble were an eternal blemiſh to the wonted ſplendor of our names,</p>
+            <p>And laſtly that they have neither: Law-reaſon, nor Equity to iuſtifie their doings, but but meerly fictitious Skreenes of their own making without any reallity or colour of truth to pretend a Juſt feud.</p>
+            <p>Where <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> more to animate our ſluggiſh ſpirits to the oppoſition of theſe cater<g ref="char:EOLhyphen"/>pillars then we have? Here is firſt God to pro<g ref="char:EOLhyphen"/>tect us. Secondly an honeſt cauſe to back us. And thirdly a wiſe counſell to, advice us. And laſtly gallant ſouldiers to command us; we only, we only, are wanting to our ſelvee. Me thinks if theſe preſwaſions cannot, yet our feares might move <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> for <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> conſider if ever they conquer, if they grant us our lives, the condition of our being will be worſe then death.</p>
+            <p>For no man ſhall be maſter of his own, but
+<pb n="12" facs="tcp:117862:8"/>
+               <!-- PDF PAGE 75 -->our eſtates and perſons muſt ſtand liable to their wretched diſpoſe, and when a beggar is ſet on horſeback he will ride to the Divell: then farewell Liberty, Property, and all that may be called dear to us.</p>
+            <p>Let us therefore prevent our dangers be<g ref="char:EOLhyphen"/>times, and ruſh into our harneſs like the ſons of thoſe men which never veiled to a ſcotch banner: <hi>And curſe ye Meros, Curſe ye bitterly thoſe that come not forth to help the People of the Lord againſt the Mighty.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:117862:8"/>
+            <!-- PDF PAGE 75 -->
+         </div>
+      </body>
+   </text>
+</TEI>
